@@ -4,7 +4,7 @@
 "layout":
 	{
 	"logo": "https://titniks.github.io/data/image/Yandex API/Widget/Browser Wiget.png",
-	"color": "#ffffff"
+	"color": "#ffffff",
 	"show_title": false
 	}
 }
