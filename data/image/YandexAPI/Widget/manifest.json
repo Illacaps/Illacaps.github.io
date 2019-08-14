@@ -3,10 +3,9 @@
 "api_version": 4,
 "layout":
 	{
-	"logo": "https://titniks.github.io/data/image/Yandex API/Widget/Browser Wiget.png",
+	"logo": "https://titniks.github.io/data/image/YandexAPI/Widget/BrowserWidget.png",
 	"color": "#ffffff",
 	"show_title": false
 	}
 }
-
 
