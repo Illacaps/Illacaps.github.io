@@ -1,0 +1,10 @@
+{
+"version": "1.0",
+"api_version": 4,
+"layout":
+	{
+	"logo": "https://titniks.github.io/data/image/Yandex API/Widget/
+	"color": "#e9ffd0",
+	"show_title": false
+	}
+}
